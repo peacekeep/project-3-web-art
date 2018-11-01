@@ -4,17 +4,40 @@ body {
   font-family: "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
   padding: 30px 20px;
+  background-image: : gray;
   text-align: center;
   align-content: center;
 }
+.container
+{
+  Width: 450px;
+  height: 400px;
+  margin:100px auto;
+  background: yellow;
+  position: relative top;
+  border-style: ridge;
+  outline-style:solid;
+  border-color: orange;
+  border-width: 20px;
+}
 
 h1 {
-  color: red;
-  padding: 20px 0px 10px 0px;
+  color: black;
+  border-style: solid;
+  border-width: thin;
+  background-color: Lightblue;
+}
+
+h2{
+  color: black;
+  border-style: solid;
+  border-width: thin;
+  background-color: Lightblue;
+
 }
 
 a {
-color: #69CBBB;
+color: blue;
 text-decoration: none;
 }
 
