@@ -13,12 +13,12 @@ body {
   Width: 450px;
   height: 400px;
   margin:100px auto;
-  background: yellow;
+  background:url(images/chip.jpeg);
   position: relative center;
   border-style: ridge;
   outline-style: solid;
   border-color: orange;
-  border-width: 25px;
+  border-width: 30px;
 }
 
 h1 {
@@ -34,6 +34,7 @@ h2{
   border-width: thin;
   border-color: black;
   background-color: Lightblue;
+  text-align: center;
 
 }
 
