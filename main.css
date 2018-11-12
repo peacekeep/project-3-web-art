@@ -29,7 +29,7 @@ h1 {
 }
 
 h2{
-  color: blue;
+  color: black;
   border-style: solid;
   border-width: thin;
   border-color: black;
@@ -49,14 +49,16 @@ img{
   border-width: 30px;
   border-color: orange;
   outline-style: solid;
+  outline-color: black;
   margin: 0px auto;
 }
 
 video{
   display: block;
   border-style: ridge;
-  border-width: 30px
+  border-width: 30px;
   border-color: orange;
   outline-style: solid;
+  outline-color: black;
   margin: 0px auto;
 }
